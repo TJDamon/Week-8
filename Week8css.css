@@ -1,0 +1,32 @@
+.hov {
+    background-color: aquamarine;
+}
+
+.hov:hover {
+    background-color: dodgerblue;
+}
+
+.titleBorder {
+    border-color: white;
+    border-style: double;
+    border-width: 3px;
+}
+
+.raiders {
+    background-color: silver;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+tr, td {
+    padding: 8px;
+    text-align: center;
+    border-style:ridge ;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 50%;
+}
